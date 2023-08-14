@@ -1,0 +1,7 @@
+Algoritmo de cálculo de potência: um algoritmo que calcula a potência de um número, elevando-o a uma determinada potência.
+
+1- leia o x
+2- leia expoente
+3- para cada numero entre 1 e expoente
+4- faça x * x = resultado
+5- escreva resultado
