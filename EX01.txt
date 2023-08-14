@@ -1,0 +1,7 @@
+Algoritmo de soma de dois números: um algoritmo simples que pede dois números como entrada e retorna a soma desses dois números.
+
+1- Leia A
+2- Leia B
+3- Resulta = A + B
+4- Escreva resultado
+
